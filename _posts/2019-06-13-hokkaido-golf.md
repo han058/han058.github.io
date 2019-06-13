@@ -9,22 +9,28 @@ categories: posts
 tags: '일본골프여행'
 author: han058
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# 어쩌다 일본 골프 여행
+* 40대 남자 3명, 5월말 3박 4일
+2019년 5월 말, 뜻하지 않은 자유가 생겼다.
+그래서 뭔가를 해야겠다 싶었다.
+취미라고 할 것이 골프 뿐인 관계로 동반자 섭외에 나섰다.
+두 명 확보!
+장소는? 일본! 제주도! 서울 근교! 중 한 곳으로~
+	* -특소세 면세 혜택이 끝난 제주도 골프장은 가격적 메리트가 없음-
+	* -서울 근교는 언제든 갈 수 있으니 일단 패스-
+	* 그래서 일본으로 결정!
+* 골프 패키지 여행 상품 조회
+언젠가는 일본 골프장을 경험해 보고 싶은 마음이 있었다.
+골프 목적지로 일본을 정한 것은 결국 그냥 원해서 라고 볼 수 있다.
+우선 우리 셋 중 누구도 일본어가 가능한 사람이 없다.
+기껏 아리가또나 곤니치와 정도~
+일본 골프 여행은 처음인지라 당연히 패키지 상품을 이것 저것 알아보았다.
+허나 일정이나, 라운딩 횟수( 보통 2.5 ~ 3.5 라운드 )나 골프장이 마음에 쏙 드는 상품이 없다.
+그래서 직접 예약해서 떠나보기로 한다!
+* 라쿠텐을 이용하여 예약
+구글에 "일본 골프 직접 예약" 이라고 검색하면 등장하는 [블로그 포스트](http://blog.naver.com/explorerlte/221387198624)가 하나 있다.
+자세히 읽어보니 가능하다 싶다. 정보 공유에 매우 감사!!
+그래서 우리도, 직접 예약해서 한 번 시도해 보고자 한다.
+여행은 도전 아니겠나? 떠나기 전에는 걱정이 좀 있었으나, 막상 경험해보니 그리 대단한 것은 아니었지만...
+ 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
