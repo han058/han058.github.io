@@ -4,6 +4,7 @@ title:  "홋카이도 골프여행 직접 예약하기"
 crawlertitle: "일본 골프 직접 예약"
 summary: "일본 골프 직접 예약해서 떠나기"
 date:   2019-06-13 14:18:47 +0700
+bg: myswing.jpg
 categories: posts
 tags: '일본골프여행'
 author: han058
