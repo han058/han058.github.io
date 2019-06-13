@@ -6,10 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: han058
+title: TEST 
 email: han058@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-	han058 blog, Search-system engineer and golf-holic
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
 url: "https://han058.github.io" # the base hostname & protocol for your site
@@ -33,8 +35,10 @@ compress_html:
   clippings: all
   endings: all
 
+
 sass:
   sass_dir: assets/_sass
   style: compressed
+
 
 images: '/assets/images'
