@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "홋카이도 골프여행 직접 예약하기"
-crawlertitle: "일본 골프 직접 예약"
-summary: "일본 골프 직접 예약"
+title:  "홋카이도로 골프여행을 떠나다"
+crawlertitle: "일본 골프 직접 예약 홋카이도 골프 여행"
+summary: "카츠라, 브룩스, 에니와, 니도무"
 date:   2019-06-13 14:18:47 +0700
 bg: myswing.jpg
 categories: posts
