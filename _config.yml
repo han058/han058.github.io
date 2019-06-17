@@ -26,7 +26,7 @@ permalink: /:categories/:title/
 future: true
 safe: false
 lsi: false
-excerpt_seperator:  <!--break-->
+excerpt_seperator: "\n\n" 
 
 # Theme settings
 compress_html:
