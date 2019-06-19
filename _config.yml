@@ -17,7 +17,6 @@ url: "https://han058.github.io" # the base hostname & protocol for your site
 twitter_username: han058
 github_username:  han058
 disqus_username:
-
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
